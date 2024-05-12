@@ -853,6 +853,8 @@ http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 group-title="港澳台「P」",凤凰资讯
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="港澳台「P」",凤凰资讯
+http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 #EXTINF:-1 group-title="港澳台「P」",香港国际财经
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 group-title="港澳台「P」",HOY TV
