@@ -623,9 +623,11 @@ Red Bull TV「体育」,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/m
 CCTV-4k,https://yang-1989.eu.org/live/cctv4k
 CCTV-8k,https://yang-1989.eu.org/live/cctv8k
 CCTV1,https://yang-1989.eu.org/live/cctv1
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV2,https://yang-1989.eu.org/live/cctv2
 CCTV3,https://yang-1989.eu.org/live/cctv3
 CCTV4,https://yang-1989.eu.org/live/cctv4
+CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
 CCTV5,https://yang-1989.eu.org/live/cctv5
 CCTV5+,https://yang-1989.eu.org/live/cctv5p
 CCTV6,https://yang-1989.eu.org/live/cctv6
